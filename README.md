@@ -97,7 +97,7 @@ npm run data:destroy
 
 The MIT License
 
-Copyright (c) 2020 Sanjula De Alwis
+Copyright (c) 2020 Daniel Musau
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
